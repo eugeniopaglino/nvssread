@@ -1,5 +1,7 @@
 <!-- badges: start -->
+<!-- badges: start -->
 [![R-CMD-check](https://github.com/eugeniopaglino/nvssread/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/eugeniopaglino/nvssread/actions/workflows/R-CMD-check.yaml)
+[![Validate Public NVSS vs CDC WONDER](https://github.com/eugeniopaglino/nvssread/actions/workflows/validate-public-nvss.yaml/badge.svg)](https://github.com/eugeniopaglino/nvssread/actions/workflows/validate-public-nvss.yaml)
 <!-- badges: end -->
 
 # nvssread
