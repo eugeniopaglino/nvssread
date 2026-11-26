@@ -1,3 +1,7 @@
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/eugeniopaglino/nvssread/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/eugeniopaglino/nvssread/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
 # nvssread
 
 `nvssread` reads fixed-width National Vital Statistics System (NVSS) All-County mortality microdata files (**1989 onwards**), cleans and harmonizes demographic, geographic, and cause-of-death (ICD-9 and ICD-10) variables, optionally harmonizes longitudinal county FIPS boundaries and performs sequential proportional redistribution of missing values, and exports one tabulated CSV file per year.
