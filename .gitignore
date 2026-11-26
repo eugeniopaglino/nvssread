@@ -6,6 +6,10 @@
 *.Rcheck/
 *.tar.gz
 README.html
+validation/cache/
+validation/results/
+validation/wonder/cache_*.rds
+!validation/wonder/*.csv
 
 # Prevent committing raw NVSS microdata (keep only synthetic generator script)
 inst/examples/synthetic_data/

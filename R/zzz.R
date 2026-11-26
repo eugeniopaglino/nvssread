@@ -1,3 +1,8 @@
+#' @importFrom data.table %between% %chin% := CJ copy data.table fcase fifelse
+#'   fwrite is.data.table rbindlist set setDT setcolorder setnames setorderv
+#' @importFrom utils globalVariables
+NULL
+
 utils::globalVariables(c(
   ".", ".D", ".I", ".N", ".age_ord", ".dummy", ".has_ref", ".miss_id",
   ".nDx_miss", ".nDx_ref", ".w", "FIPS_code", "age", "birth_place",

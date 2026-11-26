@@ -1,0 +1,617 @@
+"Notes","Five-Year Age Groups","Five-Year Age Groups Code","Sex","Sex Code","Hispanic Origin","Hispanic Origin Code","Race","Race Code",Deaths,Population,Crude Rate
+,"< 1 year","1","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,7448,Suppressed
+,"< 1 year","1","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",19,5626,Unreliable
+,"< 1 year","1","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",51,18607,274.1
+,"< 1 year","1","Female","F","Hispanic or Latino","2135-2","White","2106-3",2006,344761,581.9
+,"< 1 year","1","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",120,18962,632.8
+,"< 1 year","1","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",326,74962,434.9
+,"< 1 year","1","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",3768,283794,1327.7
+,"< 1 year","1","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",5853,1102471,530.9
+,"< 1 year","1","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"< 1 year","1","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"< 1 year","1","Female","F","Not Stated","NS","Black or African American","2054-5",51,Not Applicable,Not Applicable
+,"< 1 year","1","Female","F","Not Stated","NS","White","2106-3",108,Not Applicable,Not Applicable
+,"< 1 year","1","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",20,7756,257.9
+,"< 1 year","1","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",22,5794,379.7
+,"< 1 year","1","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",78,19589,398.2
+,"< 1 year","1","Male","M","Hispanic or Latino","2135-2","White","2106-3",2394,361472,662.3
+,"< 1 year","1","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",173,19808,873.4
+,"< 1 year","1","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",417,78637,530.3
+,"< 1 year","1","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",4757,293061,1623.2
+,"< 1 year","1","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",7660,1162900,658.7
+,"< 1 year","1","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"< 1 year","1","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"< 1 year","1","Male","M","Not Stated","NS","Black or African American","2054-5",66,Not Applicable,Not Applicable
+,"< 1 year","1","Male","M","Not Stated","NS","White","2106-3",123,Not Applicable,Not Applicable
+,"1-4 years","1-4","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,28022,Suppressed
+,"1-4 years","1-4","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,20778,Suppressed
+,"1-4 years","1-4","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,70704,Suppressed
+,"1-4 years","1-4","Female","F","Hispanic or Latino","2135-2","White","2106-3",383,1321597,29.0
+,"1-4 years","1-4","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",39,77612,50.2
+,"1-4 years","1-4","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",64,315002,20.3
+,"1-4 years","1-4","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",545,1157506,47.1
+,"1-4 years","1-4","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",1100,4517213,24.4
+,"1-4 years","1-4","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"1-4 years","1-4","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"1-4 years","1-4","Female","F","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"1-4 years","1-4","Female","F","Not Stated","NS","White","2106-3",Suppressed,Not Applicable,Not Applicable
+,"1-4 years","1-4","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,29179,Suppressed
+,"1-4 years","1-4","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,21428,Suppressed
+,"1-4 years","1-4","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",14,73580,Unreliable
+,"1-4 years","1-4","Male","M","Hispanic or Latino","2135-2","White","2106-3",458,1381633,33.1
+,"1-4 years","1-4","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",48,80047,60.0
+,"1-4 years","1-4","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",77,317863,24.2
+,"1-4 years","1-4","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",672,1197035,56.1
+,"1-4 years","1-4","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",1541,4760951,32.4
+,"1-4 years","1-4","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"1-4 years","1-4","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"1-4 years","1-4","Male","M","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"1-4 years","1-4","Male","M","Not Stated","NS","White","2106-3",Suppressed,Not Applicable,Not Applicable
+,"5-9 years","5-9","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,35746,Suppressed
+,"5-9 years","5-9","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,23952,Suppressed
+,"5-9 years","5-9","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,85903,Suppressed
+,"5-9 years","5-9","Female","F","Hispanic or Latino","2135-2","White","2106-3",226,1626194,13.9
+,"5-9 years","5-9","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",21,109884,19.1
+,"5-9 years","5-9","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",42,387897,10.8
+,"5-9 years","5-9","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",320,1621537,19.7
+,"5-9 years","5-9","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",773,6135115,12.6
+,"5-9 years","5-9","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"5-9 years","5-9","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"5-9 years","5-9","Female","F","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"5-9 years","5-9","Female","F","Not Stated","NS","White","2106-3",12,Not Applicable,Not Applicable
+,"5-9 years","5-9","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,36540,Suppressed
+,"5-9 years","5-9","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",0,24649,Unreliable
+,"5-9 years","5-9","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,88572,Suppressed
+,"5-9 years","5-9","Male","M","Hispanic or Latino","2135-2","White","2106-3",267,1702124,15.7
+,"5-9 years","5-9","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",24,112349,21.4
+,"5-9 years","5-9","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",43,407655,10.5
+,"5-9 years","5-9","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",425,1674005,25.4
+,"5-9 years","5-9","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",1077,6477383,16.6
+,"5-9 years","5-9","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"5-9 years","5-9","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"5-9 years","5-9","Male","M","Not Stated","NS","Black or African American","2054-5",0,Not Applicable,Not Applicable
+,"5-9 years","5-9","Male","M","Not Stated","NS","White","2106-3",Suppressed,Not Applicable,Not Applicable
+,"10-14 years","10-14","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,33312,Suppressed
+,"10-14 years","10-14","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,20068,Suppressed
+,"10-14 years","10-14","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,72579,Suppressed
+,"10-14 years","10-14","Female","F","Hispanic or Latino","2135-2","White","2106-3",204,1420268,14.4
+,"10-14 years","10-14","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",28,114140,24.5
+,"10-14 years","10-14","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",49,385391,12.7
+,"10-14 years","10-14","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",341,1568187,21.7
+,"10-14 years","10-14","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",972,6393930,15.2
+,"10-14 years","10-14","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"10-14 years","10-14","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"10-14 years","10-14","Female","F","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"10-14 years","10-14","Female","F","Not Stated","NS","White","2106-3",Suppressed,Not Applicable,Not Applicable
+,"10-14 years","10-14","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,33738,Suppressed
+,"10-14 years","10-14","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,20782,Suppressed
+,"10-14 years","10-14","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,74936,Suppressed
+,"10-14 years","10-14","Male","M","Hispanic or Latino","2135-2","White","2106-3",330,1487729,22.2
+,"10-14 years","10-14","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",31,118648,26.1
+,"10-14 years","10-14","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",61,407995,15.0
+,"10-14 years","10-14","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",534,1616074,33.0
+,"10-14 years","10-14","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",1575,6760295,23.3
+,"10-14 years","10-14","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"10-14 years","10-14","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"10-14 years","10-14","Male","M","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"10-14 years","10-14","Male","M","Not Stated","NS","White","2106-3",Suppressed,Not Applicable,Not Applicable
+,"15-19 years","15-19","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,30499,Suppressed
+,"15-19 years","15-19","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",0,18877,Unreliable
+,"15-19 years","15-19","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,66683,Suppressed
+,"15-19 years","15-19","Female","F","Hispanic or Latino","2135-2","White","2106-3",415,1367031,30.4
+,"15-19 years","15-19","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",69,107640,64.1
+,"15-19 years","15-19","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",89,418142,21.3
+,"15-19 years","15-19","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",660,1470186,44.9
+,"15-19 years","15-19","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",2601,6349828,41.0
+,"15-19 years","15-19","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"15-19 years","15-19","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"15-19 years","15-19","Female","F","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"15-19 years","15-19","Female","F","Not Stated","NS","White","2106-3",15,Not Applicable,Not Applicable
+,"15-19 years","15-19","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,33862,Suppressed
+,"15-19 years","15-19","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,19851,Suppressed
+,"15-19 years","15-19","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",21,70090,30.0
+,"15-19 years","15-19","Male","M","Hispanic or Latino","2135-2","White","2106-3",1492,1564753,95.4
+,"15-19 years","15-19","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",171,111765,153.0
+,"15-19 years","15-19","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",222,435045,51.0
+,"15-19 years","15-19","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",2012,1501688,134.0
+,"15-19 years","15-19","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",5726,6653950,86.1
+,"15-19 years","15-19","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"15-19 years","15-19","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"15-19 years","15-19","Male","M","Not Stated","NS","Black or African American","2054-5",12,Not Applicable,Not Applicable
+,"15-19 years","15-19","Male","M","Not Stated","NS","White","2106-3",24,Not Applicable,Not Applicable
+,"20-24 years","20-24","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,27651,Suppressed
+,"20-24 years","20-24","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,18829,Suppressed
+,"20-24 years","20-24","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",11,72218,Unreliable
+,"20-24 years","20-24","Female","F","Hispanic or Latino","2135-2","White","2106-3",513,1415590,36.2
+,"20-24 years","20-24","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",74,88688,83.4
+,"20-24 years","20-24","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",109,457976,23.8
+,"20-24 years","20-24","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",1042,1361689,76.5
+,"20-24 years","20-24","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",2594,5833546,44.5
+,"20-24 years","20-24","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"20-24 years","20-24","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"20-24 years","20-24","Female","F","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"20-24 years","20-24","Female","F","Not Stated","NS","White","2106-3",12,Not Applicable,Not Applicable
+,"20-24 years","20-24","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,34341,Suppressed
+,"20-24 years","20-24","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",12,20344,Unreliable
+,"20-24 years","20-24","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",29,71609,40.5
+,"20-24 years","20-24","Male","M","Hispanic or Latino","2135-2","White","2106-3",2259,1748845,129.2
+,"20-24 years","20-24","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",181,91038,198.8
+,"20-24 years","20-24","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",272,458732,59.3
+,"20-24 years","20-24","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",3212,1288774,249.2
+,"20-24 years","20-24","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",7340,5974131,122.9
+,"20-24 years","20-24","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"20-24 years","20-24","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"20-24 years","20-24","Male","M","Not Stated","NS","Black or African American","2054-5",32,Not Applicable,Not Applicable
+,"20-24 years","20-24","Male","M","Not Stated","NS","White","2106-3",27,Not Applicable,Not Applicable
+,"25-29 years","25-29","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,25464,Suppressed
+,"25-29 years","25-29","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,17733,Suppressed
+,"25-29 years","25-29","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",10,70480,Unreliable
+,"25-29 years","25-29","Female","F","Hispanic or Latino","2135-2","White","2106-3",568,1445511,39.3
+,"25-29 years","25-29","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",79,84081,94.0
+,"25-29 years","25-29","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",115,548078,21.0
+,"25-29 years","25-29","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",1362,1345107,101.3
+,"25-29 years","25-29","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",2902,6046122,48.0
+,"25-29 years","25-29","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"25-29 years","25-29","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"25-29 years","25-29","Female","F","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"25-29 years","25-29","Female","F","Not Stated","NS","White","2106-3",14,Not Applicable,Not Applicable
+,"25-29 years","25-29","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,31421,Suppressed
+,"25-29 years","25-29","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,18289,Suppressed
+,"25-29 years","25-29","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",22,64206,34.3
+,"25-29 years","25-29","Male","M","Hispanic or Latino","2135-2","White","2106-3",1977,1712230,115.5
+,"25-29 years","25-29","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",183,84314,217.0
+,"25-29 years","25-29","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",312,532545,58.6
+,"25-29 years","25-29","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",3127,1217250,256.9
+,"25-29 years","25-29","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",6920,6138505,112.7
+,"25-29 years","25-29","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"25-29 years","25-29","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"25-29 years","25-29","Male","M","Not Stated","NS","Black or African American","2054-5",14,Not Applicable,Not Applicable
+,"25-29 years","25-29","Male","M","Not Stated","NS","White","2106-3",46,Not Applicable,Not Applicable
+,"30-34 years","30-34","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",0,24555,Unreliable
+,"30-34 years","30-34","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,16361,Suppressed
+,"30-34 years","30-34","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,65130,Suppressed
+,"30-34 years","30-34","Female","F","Hispanic or Latino","2135-2","White","2106-3",714,1350791,52.9
+,"30-34 years","30-34","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",106,85300,124.3
+,"30-34 years","30-34","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",182,530178,34.3
+,"30-34 years","30-34","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",2092,1384892,151.1
+,"30-34 years","30-34","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",4355,6731412,64.7
+,"30-34 years","30-34","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"30-34 years","30-34","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"30-34 years","30-34","Female","F","Not Stated","NS","Black or African American","2054-5",11,Not Applicable,Not Applicable
+,"30-34 years","30-34","Female","F","Not Stated","NS","White","2106-3",26,Not Applicable,Not Applicable
+,"30-34 years","30-34","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,28778,Suppressed
+,"30-34 years","30-34","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,16159,Suppressed
+,"30-34 years","30-34","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",37,60585,61.1
+,"30-34 years","30-34","Male","M","Hispanic or Latino","2135-2","White","2106-3",2137,1562542,136.8
+,"30-34 years","30-34","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",210,84418,248.8
+,"30-34 years","30-34","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",260,506233,51.4
+,"30-34 years","30-34","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",3522,1243849,283.2
+,"30-34 years","30-34","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",9014,6819205,132.2
+,"30-34 years","30-34","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"30-34 years","30-34","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"30-34 years","30-34","Male","M","Not Stated","NS","Black or African American","2054-5",28,Not Applicable,Not Applicable
+,"30-34 years","30-34","Male","M","Not Stated","NS","White","2106-3",46,Not Applicable,Not Applicable
+,"35-39 years","35-39","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,24049,Suppressed
+,"35-39 years","35-39","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,15114,Suppressed
+,"35-39 years","35-39","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",19,58277,Unreliable
+,"35-39 years","35-39","Female","F","Hispanic or Latino","2135-2","White","2106-3",1087,1253256,86.7
+,"35-39 years","35-39","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",183,97236,188.2
+,"35-39 years","35-39","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",254,511721,49.6
+,"35-39 years","35-39","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",3300,1505402,219.2
+,"35-39 years","35-39","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",7990,7922913,100.8
+,"35-39 years","35-39","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"35-39 years","35-39","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"35-39 years","35-39","Female","F","Not Stated","NS","Black or African American","2054-5",18,Not Applicable,Not Applicable
+,"35-39 years","35-39","Female","F","Not Stated","NS","White","2106-3",27,Not Applicable,Not Applicable
+,"35-39 years","35-39","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,26845,Suppressed
+,"35-39 years","35-39","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,14292,Suppressed
+,"35-39 years","35-39","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",28,53712,52.1
+,"35-39 years","35-39","Male","M","Hispanic or Latino","2135-2","White","2106-3",2499,1379613,181.1
+,"35-39 years","35-39","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",275,92207,298.2
+,"35-39 years","35-39","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",412,482755,85.3
+,"35-39 years","35-39","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",4947,1333184,371.1
+,"35-39 years","35-39","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",14922,7936088,188.0
+,"35-39 years","35-39","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"35-39 years","35-39","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"35-39 years","35-39","Male","M","Not Stated","NS","Black or African American","2054-5",40,Not Applicable,Not Applicable
+,"35-39 years","35-39","Male","M","Not Stated","NS","White","2106-3",108,Not Applicable,Not Applicable
+,"40-44 years","40-44","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,20320,Suppressed
+,"40-44 years","40-44","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",10,12366,Unreliable
+,"40-44 years","40-44","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",24,48932,49.0
+,"40-44 years","40-44","Female","F","Hispanic or Latino","2135-2","White","2106-3",1335,1043986,127.9
+,"40-44 years","40-44","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",212,94630,224.0
+,"40-44 years","40-44","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",402,484384,83.0
+,"40-44 years","40-44","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",4918,1442018,341.0
+,"40-44 years","40-44","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",12619,8166125,154.5
+,"40-44 years","40-44","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"40-44 years","40-44","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"40-44 years","40-44","Female","F","Not Stated","NS","Black or African American","2054-5",27,Not Applicable,Not Applicable
+,"40-44 years","40-44","Female","F","Not Stated","NS","White","2106-3",60,Not Applicable,Not Applicable
+,"40-44 years","40-44","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,22123,Suppressed
+,"40-44 years","40-44","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,11610,Suppressed
+,"40-44 years","40-44","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",53,44144,120.1
+,"40-44 years","40-44","Male","M","Hispanic or Latino","2135-2","White","2106-3",2984,1100671,271.1
+,"40-44 years","40-44","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",377,87470,431.0
+,"40-44 years","40-44","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",557,437917,127.2
+,"40-44 years","40-44","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",7114,1273647,558.6
+,"40-44 years","40-44","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",22700,8151520,278.5
+,"40-44 years","40-44","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"40-44 years","40-44","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"40-44 years","40-44","Male","M","Not Stated","NS","Black or African American","2054-5",69,Not Applicable,Not Applicable
+,"40-44 years","40-44","Male","M","Not Stated","NS","White","2106-3",165,Not Applicable,Not Applicable
+,"45-49 years","45-49","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,15631,Suppressed
+,"45-49 years","45-49","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",11,9607,Unreliable
+,"45-49 years","45-49","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",35,38430,91.1
+,"45-49 years","45-49","Female","F","Hispanic or Latino","2135-2","White","2106-3",1582,824805,191.8
+,"45-49 years","45-49","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",214,81150,263.7
+,"45-49 years","45-49","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",558,434249,128.5
+,"45-49 years","45-49","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",6320,1225916,515.5
+,"45-49 years","45-49","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",16872,7573110,222.8
+,"45-49 years","45-49","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"45-49 years","45-49","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"45-49 years","45-49","Female","F","Not Stated","NS","Black or African American","2054-5",30,Not Applicable,Not Applicable
+,"45-49 years","45-49","Female","F","Not Stated","NS","White","2106-3",78,Not Applicable,Not Applicable
+,"45-49 years","45-49","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",18,16374,Unreliable
+,"45-49 years","45-49","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",12,8783,Unreliable
+,"45-49 years","45-49","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",49,35107,139.6
+,"45-49 years","45-49","Male","M","Hispanic or Latino","2135-2","White","2106-3",3278,826431,396.6
+,"45-49 years","45-49","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",369,75160,491.0
+,"45-49 years","45-49","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",763,377348,202.2
+,"45-49 years","45-49","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",9225,1061019,869.4
+,"45-49 years","45-49","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",31133,7489284,415.7
+,"45-49 years","45-49","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"45-49 years","45-49","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"45-49 years","45-49","Male","M","Not Stated","NS","Black or African American","2054-5",76,Not Applicable,Not Applicable
+,"45-49 years","45-49","Male","M","Not Stated","NS","White","2106-3",188,Not Applicable,Not Applicable
+,"50-54 years","50-54","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,11114,Suppressed
+,"50-54 years","50-54","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",12,6986,Unreliable
+,"50-54 years","50-54","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",18,28889,Unreliable
+,"50-54 years","50-54","Female","F","Hispanic or Latino","2135-2","White","2106-3",1880,649710,289.4
+,"50-54 years","50-54","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",269,66200,406.3
+,"50-54 years","50-54","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",676,361283,187.1
+,"50-54 years","50-54","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",6944,980443,708.3
+,"50-54 years","50-54","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",24304,6873199,353.6
+,"50-54 years","50-54","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"50-54 years","50-54","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"50-54 years","50-54","Female","F","Not Stated","NS","Black or African American","2054-5",29,Not Applicable,Not Applicable
+,"50-54 years","50-54","Female","F","Not Stated","NS","White","2106-3",92,Not Applicable,Not Applicable
+,"50-54 years","50-54","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,11439,Suppressed
+,"50-54 years","50-54","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",18,6341,Unreliable
+,"50-54 years","50-54","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",48,25634,187.3
+,"50-54 years","50-54","Male","M","Hispanic or Latino","2135-2","White","2106-3",3377,620822,544.0
+,"50-54 years","50-54","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",460,62013,741.8
+,"50-54 years","50-54","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",957,312897,305.9
+,"50-54 years","50-54","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",10422,834987,1248.2
+,"50-54 years","50-54","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",39655,6733591,588.9
+,"50-54 years","50-54","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"50-54 years","50-54","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"50-54 years","50-54","Male","M","Not Stated","NS","Black or African American","2054-5",93,Not Applicable,Not Applicable
+,"50-54 years","50-54","Male","M","Not Stated","NS","White","2106-3",235,Not Applicable,Not Applicable
+,"55-59 years","55-59","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,7144,Suppressed
+,"55-59 years","55-59","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,4575,Suppressed
+,"55-59 years","55-59","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",31,19283,160.8
+,"55-59 years","55-59","Female","F","Hispanic or Latino","2135-2","White","2106-3",2173,472866,459.5
+,"55-59 years","55-59","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",340,47419,717.0
+,"55-59 years","55-59","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",799,247103,323.3
+,"55-59 years","55-59","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",7316,721707,1013.7
+,"55-59 years","55-59","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",31516,5440411,579.3
+,"55-59 years","55-59","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"55-59 years","55-59","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"55-59 years","55-59","Female","F","Not Stated","NS","Black or African American","2054-5",27,Not Applicable,Not Applicable
+,"55-59 years","55-59","Female","F","Not Stated","NS","White","2106-3",103,Not Applicable,Not Applicable
+,"55-59 years","55-59","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",11,7027,Unreliable
+,"55-59 years","55-59","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",16,3914,Unreliable
+,"55-59 years","55-59","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",52,16642,312.5
+,"55-59 years","55-59","Male","M","Hispanic or Latino","2135-2","White","2106-3",3577,428582,834.6
+,"55-59 years","55-59","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",446,44094,1011.5
+,"55-59 years","55-59","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1112,220008,505.4
+,"55-59 years","55-59","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",10649,590653,1802.9
+,"55-59 years","55-59","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",48255,5197809,928.4
+,"55-59 years","55-59","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"55-59 years","55-59","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"55-59 years","55-59","Male","M","Not Stated","NS","Black or African American","2054-5",86,Not Applicable,Not Applicable
+,"55-59 years","55-59","Male","M","Not Stated","NS","White","2106-3",216,Not Applicable,Not Applicable
+,"60-64 years ","60-64","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,5160,Suppressed
+,"60-64 years ","60-64","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",15,3382,Unreliable
+,"60-64 years ","60-64","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",37,15737,235.1
+,"60-64 years ","60-64","Female","F","Hispanic or Latino","2135-2","White","2106-3",2693,378719,711.1
+,"60-64 years ","60-64","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",370,35344,1046.9
+,"60-64 years ","60-64","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",937,195482,479.3
+,"60-64 years ","60-64","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",9149,596149,1534.7
+,"60-64 years ","60-64","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",41801,4438847,941.7
+,"60-64 years ","60-64","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"60-64 years ","60-64","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"60-64 years ","60-64","Female","F","Not Stated","NS","Black or African American","2054-5",43,Not Applicable,Not Applicable
+,"60-64 years ","60-64","Female","F","Not Stated","NS","White","2106-3",141,Not Applicable,Not Applicable
+,"60-64 years ","60-64","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",10,4801,Unreliable
+,"60-64 years ","60-64","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",22,2844,773.6
+,"60-64 years ","60-64","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",64,12624,507.0
+,"60-64 years ","60-64","Male","M","Hispanic or Latino","2135-2","White","2106-3",4008,327140,1225.2
+,"60-64 years ","60-64","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",494,32488,1520.6
+,"60-64 years ","60-64","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1405,172521,814.4
+,"60-64 years ","60-64","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",11753,470342,2498.8
+,"60-64 years ","60-64","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",60776,4113867,1477.3
+,"60-64 years ","60-64","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"60-64 years ","60-64","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"60-64 years ","60-64","Male","M","Not Stated","NS","Black or African American","2054-5",74,Not Applicable,Not Applicable
+,"60-64 years ","60-64","Male","M","Not Stated","NS","White","2106-3",282,Not Applicable,Not Applicable
+,"65-69 years","65-69","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",14,3963,Unreliable
+,"65-69 years","65-69","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",20,2661,751.6
+,"65-69 years","65-69","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",48,12200,393.4
+,"65-69 years","65-69","Female","F","Hispanic or Latino","2135-2","White","2106-3",3626,312345,1160.9
+,"65-69 years","65-69","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",479,26682,1795.2
+,"65-69 years","65-69","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1315,164891,797.5
+,"65-69 years","65-69","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",11476,508629,2256.3
+,"65-69 years","65-69","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",60639,4101812,1478.3
+,"65-69 years","65-69","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"65-69 years","65-69","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"65-69 years","65-69","Female","F","Not Stated","NS","Black or African American","2054-5",35,Not Applicable,Not Applicable
+,"65-69 years","65-69","Female","F","Not Stated","NS","White","2106-3",150,Not Applicable,Not Applicable
+,"65-69 years","65-69","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,3369,Suppressed
+,"65-69 years","65-69","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",22,1992,1104.4
+,"65-69 years","65-69","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",65,9102,714.1
+,"65-69 years","65-69","Male","M","Hispanic or Latino","2135-2","White","2106-3",4743,253721,1869.4
+,"65-69 years","65-69","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",546,22882,2386.2
+,"65-69 years","65-69","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1665,128750,1293.2
+,"65-69 years","65-69","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",13355,375235,3559.1
+,"65-69 years","65-69","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",83126,3605311,2305.7
+,"65-69 years","65-69","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"65-69 years","65-69","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"65-69 years","65-69","Male","M","Not Stated","NS","Black or African American","2054-5",85,Not Applicable,Not Applicable
+,"65-69 years","65-69","Male","M","Not Stated","NS","White","2106-3",313,Not Applicable,Not Applicable
+,"70-74 years","70-74","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,3078,Suppressed
+,"70-74 years","70-74","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",26,2063,1260.3
+,"70-74 years","70-74","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",74,9676,764.8
+,"70-74 years","70-74","Female","F","Hispanic or Latino","2135-2","White","2106-3",4765,256758,1855.8
+,"70-74 years","70-74","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",528,20388,2589.8
+,"70-74 years","70-74","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1668,135687,1229.3
+,"70-74 years","70-74","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",14424,440786,3272.3
+,"70-74 years","70-74","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",94192,4086093,2305.2
+,"70-74 years","70-74","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"70-74 years","70-74","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",11,Not Applicable,Not Applicable
+,"70-74 years","70-74","Female","F","Not Stated","NS","Black or African American","2054-5",67,Not Applicable,Not Applicable
+,"70-74 years","70-74","Female","F","Not Stated","NS","White","2106-3",235,Not Applicable,Not Applicable
+,"70-74 years","70-74","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",15,2354,Unreliable
+,"70-74 years","70-74","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",35,1398,2503.6
+,"70-74 years","70-74","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",79,6466,1221.8
+,"70-74 years","70-74","Male","M","Hispanic or Latino","2135-2","White","2106-3",5875,195473,3005.5
+,"70-74 years","70-74","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",541,16305,3318.0
+,"70-74 years","70-74","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",2113,99347,2126.9
+,"70-74 years","70-74","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",15390,292654,5258.8
+,"70-74 years","70-74","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",118912,3288915,3615.5
+,"70-74 years","70-74","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"70-74 years","70-74","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"70-74 years","70-74","Male","M","Not Stated","NS","Black or African American","2054-5",97,Not Applicable,Not Applicable
+,"70-74 years","70-74","Male","M","Not Stated","NS","White","2106-3",410,Not Applicable,Not Applicable
+,"75-79 years","75-79","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,2059,Suppressed
+,"75-79 years","75-79","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",23,1323,1738.5
+,"75-79 years","75-79","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",67,6746,993.2
+,"75-79 years","75-79","Female","F","Hispanic or Latino","2135-2","White","2106-3",5410,181135,2986.7
+,"75-79 years","75-79","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",552,15225,3625.6
+,"75-79 years","75-79","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",2115,94557,2236.7
+,"75-79 years","75-79","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",16728,344364,4857.7
+,"75-79 years","75-79","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",139047,3725948,3731.9
+,"75-79 years","75-79","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"75-79 years","75-79","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"75-79 years","75-79","Female","F","Not Stated","NS","Black or African American","2054-5",64,Not Applicable,Not Applicable
+,"75-79 years","75-79","Female","F","Not Stated","NS","White","2106-3",349,Not Applicable,Not Applicable
+,"75-79 years","75-79","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",14,1537,Unreliable
+,"75-79 years","75-79","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",20,906,2207.5
+,"75-79 years","75-79","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",87,4037,2155.1
+,"75-79 years","75-79","Male","M","Hispanic or Latino","2135-2","White","2106-3",5948,128983,4611.5
+,"75-79 years","75-79","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",548,10670,5135.9
+,"75-79 years","75-79","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",2600,71595,3631.5
+,"75-79 years","75-79","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",15491,207597,7462.1
+,"75-79 years","75-79","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",148070,2619131,5653.4
+,"75-79 years","75-79","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"75-79 years","75-79","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"75-79 years","75-79","Male","M","Not Stated","NS","Black or African American","2054-5",104,Not Applicable,Not Applicable
+,"75-79 years","75-79","Male","M","Not Stated","NS","White","2106-3",433,Not Applicable,Not Applicable
+,"80-84 years","80-84","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,1111,Suppressed
+,"80-84 years","80-84","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",17,760,Unreliable
+,"80-84 years","80-84","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",76,4078,1863.7
+,"80-84 years","80-84","Female","F","Hispanic or Latino","2135-2","White","2106-3",5368,105670,5080.0
+,"80-84 years","80-84","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",501,9475,5287.6
+,"80-84 years","80-84","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",2205,55178,3996.2
+,"80-84 years","80-84","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",16431,231454,7099.0
+,"80-84 years","80-84","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",170769,2702744,6318.4
+,"80-84 years","80-84","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"80-84 years","80-84","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"80-84 years","80-84","Female","F","Not Stated","NS","Black or African American","2054-5",52,Not Applicable,Not Applicable
+,"80-84 years","80-84","Female","F","Not Stated","NS","White","2106-3",416,Not Applicable,Not Applicable
+,"80-84 years","80-84","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",13,766,Unreliable
+,"80-84 years","80-84","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",27,503,5367.8
+,"80-84 years","80-84","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",61,2111,2889.6
+,"80-84 years","80-84","Male","M","Hispanic or Latino","2135-2","White","2106-3",4803,64539,7442.0
+,"80-84 years","80-84","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",405,5509,7351.6
+,"80-84 years","80-84","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",2174,38683,5620.0
+,"80-84 years","80-84","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",12224,116516,10491.3
+,"80-84 years","80-84","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",146772,1606270,9137.4
+,"80-84 years","80-84","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"80-84 years","80-84","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"80-84 years","80-84","Male","M","Not Stated","NS","Black or African American","2054-5",59,Not Applicable,Not Applicable
+,"80-84 years","80-84","Male","M","Not Stated","NS","White","2106-3",344,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",21,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",79,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Hispanic or Latino","2135-2","White","2106-3",5448,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",436,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1801,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",15355,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",183246,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Not Stated","NS","Black or African American","2054-5",57,Not Applicable,Not Applicable
+,"85-89 years","85-89","Female","F","Not Stated","NS","White","2106-3",480,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",18,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",45,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Hispanic or Latino","2135-2","White","2106-3",3551,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",282,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1820,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",8341,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",114484,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Not Stated","NS","Black or African American","2054-5",42,Not Applicable,Not Applicable
+,"85-89 years","85-89","Male","M","Not Stated","NS","White","2106-3",286,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",12,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",34,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Hispanic or Latino","2135-2","White","2106-3",3768,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",281,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1176,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",10361,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",138823,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Not Stated","NS","Black or African American","2054-5",36,Not Applicable,Not Applicable
+,"90-94 years","90-94","Female","F","Not Stated","NS","White","2106-3",342,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",11,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",15,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Hispanic or Latino","2135-2","White","2106-3",2008,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",151,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",1014,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",4218,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",56864,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Not Stated","NS","Black or African American","2054-5",16,Not Applicable,Not Applicable
+,"90-94 years","90-94","Male","M","Not Stated","NS","White","2106-3",137,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",12,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Hispanic or Latino","2135-2","White","2106-3",1595,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",118,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",549,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",4839,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",58814,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Not Stated","NS","Black or African American","2054-5",24,Not Applicable,Not Applicable
+,"95-99 years","95-99","Female","F","Not Stated","NS","White","2106-3",134,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Hispanic or Latino","2135-2","White","2106-3",715,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",48,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",340,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",1523,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",15857,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"95-99 years","95-99","Male","M","Not Stated","NS","White","2106-3",52,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Hispanic or Latino","2135-2","White","2106-3",342,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",33,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",142,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",1674,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",13337,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"100+ years","100+","Female","F","Not Stated","NS","White","2106-3",23,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Hispanic or Latino","2135-2","White","2106-3",113,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",10,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",55,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",349,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",2332,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"100+ years","100+","Male","M","Not Stated","NS","White","2106-3",10,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Hispanic or Latino","2135-2","Black or African American","2054-5",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Hispanic or Latino","2135-2","White","2106-3",Suppressed,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Not Hispanic or Latino","2186-2","Black or African American","2054-5",14,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Not Hispanic or Latino","2186-2","White","2106-3",19,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Not Stated","NS","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Not Stated","NS","Black or African American","2054-5",Suppressed,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Not Stated","NS","White","2106-3",22,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Hispanic or Latino","2135-2","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Hispanic or Latino","2135-2","Asian or Pacific Islander","A-PI",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Hispanic or Latino","2135-2","Black or African American","2054-5",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Hispanic or Latino","2135-2","White","2106-3",51,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Not Hispanic or Latino","2186-2","American Indian or Alaska Native","1002-5",0,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Not Hispanic or Latino","2186-2","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Not Hispanic or Latino","2186-2","Black or African American","2054-5",35,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Not Hispanic or Latino","2186-2","White","2106-3",70,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Not Stated","NS","American Indian or Alaska Native","1002-5",Suppressed,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Not Stated","NS","Asian or Pacific Islander","A-PI",Suppressed,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Not Stated","NS","Black or African American","2054-5",15,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Not Stated","NS","White","2106-3",110,Not Applicable,Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Year/Month: 2000"
+"Group By: Five-Year Age Groups; Sex; Hispanic Origin; Race"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 26, 2026 4:01:45 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Nov 26, 2026 4:01:45 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,114 @@
+"Notes","Age Group","Age Group Code","Sex","Sex Code","Race","Race Code",Deaths,Population,Crude Rate
+,"< 1 year","1","Female","F","Black or African American","2054-5",5479,337254,1624.6
+,"< 1 year","1","Female","F","Other Race","2131-1",504,89278,564.5
+,"< 1 year","1","Female","F","White","2106-3",10512,1602185,656.1
+,"< 1 year","1","Male","M","Black or African American","2054-5",6811,347082,1962.4
+,"< 1 year","1","Male","M","Other Race","2131-1",674,94325,714.6
+,"< 1 year","1","Male","M","White","2106-3",14371,1688088,851.3
+,"1-4 years","1-4","Female","F","Black or African American","2054-5",769,1137412,67.6
+,"1-4 years","1-4","Female","F","Other Race","2131-1",111,331857,33.4
+,"1-4 years","1-4","Female","F","White","2106-3",2082,5761780,36.1
+,"1-4 years","1-4","Male","M","Black or African American","2054-5",999,1163852,85.8
+,"1-4 years","1-4","Male","M","Other Race","2131-1",186,345682,53.8
+,"1-4 years","1-4","Male","M","White","2106-3",2784,6071090,45.9
+,"5-9 years","5-9","Female","F","Black or African American","2054-5",364,1339798,27.2
+,"5-9 years","5-9","Female","F","Other Race","2131-1",69,404675,17.1
+,"5-9 years","5-9","Female","F","White","2106-3",1199,7058274,17.0
+,"5-9 years","5-9","Male","M","Black or African American","2054-5",512,1371538,37.3
+,"5-9 years","5-9","Male","M","Other Race","2131-1",101,416467,24.3
+,"5-9 years","5-9","Male","M","White","2106-3",1750,7444026,23.5
+,"10-14 years","10-14","Female","F","Black or African American","2054-5",362,1301212,27.8
+,"10-14 years","10-14","Female","F","Other Race","2131-1",62,372989,16.6
+,"10-14 years","10-14","Female","F","White","2106-3",1253,6647468,18.8
+,"10-14 years","10-14","Male","M","Black or African American","2054-5",601,1328261,45.2
+,"10-14 years","10-14","Male","M","Other Race","2131-1",93,387948,24.0
+,"10-14 years","10-14","Male","M","White","2106-3",2070,7022591,29.5
+,"15-19 years","15-19","Female","F","Black or African American","2054-5",730,1343940,54.3
+,"15-19 years","15-19","Female","F","Other Race","2131-1",147,393772,37.3
+,"15-19 years","15-19","Female","F","White","2106-3",3163,6971165,45.4
+,"15-19 years","15-19","Male","M","Black or African American","2054-5",2737,1370304,199.7
+,"15-19 years","15-19","Male","M","Other Race","2131-1",419,422979,99.1
+,"15-19 years","15-19","Male","M","White","2106-3",8515,7379551,115.4
+,"20-24 years","20-24","Female","F","Black or African American","2054-5",1125,1355862,83.0
+,"20-24 years","20-24","Female","F","Other Race","2131-1",158,405428,39.0
+,"20-24 years","20-24","Female","F","White","2106-3",3537,7627737,46.4
+,"20-24 years","20-24","Male","M","Black or African American","2054-5",3994,1299074,307.4
+,"20-24 years","20-24","Male","M","Other Race","2131-1",515,433970,118.7
+,"20-24 years","20-24","Male","M","White","2106-3",11693,8009507,146.0
+,"25-34 years","25-34","Female","F","Black or African American","2054-5",4634,2904769,159.5
+,"25-34 years","25-34","Female","F","Other Race","2131-1",476,934865,50.9
+,"25-34 years","25-34","Female","F","White","2106-3",10924,17756776,61.5
+,"25-34 years","25-34","Male","M","Black or African American","2054-5",11169,2592489,430.8
+,"25-34 years","25-34","Male","M","Other Race","2131-1",1057,900487,117.4
+,"25-34 years","25-34","Male","M","White","2106-3",31831,18071340,176.1
+,"35-44 years","35-44","Female","F","Black or African American","2054-5",6804,2278832,298.6
+,"35-44 years","35-44","Female","F","Other Race","2131-1",707,812160,87.1
+,"35-44 years","35-44","Female","F","White","2106-3",18589,15834123,117.4
+,"35-44 years","35-44","Male","M","Black or African American","2054-5",13727,1962145,699.6
+,"35-44 years","35-44","Male","M","Other Race","2131-1",1301,728534,178.6
+,"35-44 years","35-44","Male","M","White","2106-3",42434,15818973,268.2
+,"45-54 years","45-54","Female","F","Black or African American","2054-5",9052,1415642,639.4
+,"45-54 years","45-54","Female","F","Other Race","2131-1",1040,462435,224.9
+,"45-54 years","45-54","Female","F","White","2106-3",33862,10946272,309.3
+,"45-54 years","45-54","Male","M","Black or African American","2054-5",14819,1175149,1261.0
+,"45-54 years","45-54","Male","M","Other Race","2131-1",1545,432931,356.9
+,"45-54 years","45-54","Male","M","White","2106-3",58290,10624221,548.7
+,"55-64 years","55-64","Female","F","Black or African American","2054-5",16480,1134501,1452.6
+,"55-64 years","55-64","Female","F","Other Race","2131-1",1786,324990,549.6
+,"55-64 years","55-64","Female","F","White","2106-3",79784,9698092,822.7
+,"55-64 years","55-64","Male","M","Black or African American","2054-5",22993,878148,2618.4
+,"55-64 years","55-64","Male","M","Other Race","2131-1",2340,263560,887.8
+,"55-64 years","55-64","Male","M","White","2106-3",129313,8813361,1467.2
+,"65-74 years","65-74","Female","F","Black or African American","2054-5",25337,884151,2865.7
+,"65-74 years","65-74","Female","F","Other Race","2131-1",2509,206875,1212.8
+,"65-74 years","65-74","Female","F","White","2106-3",174036,9047655,1923.5
+,"65-74 years","65-74","Male","M","Black or African American","2054-5",30350,613620,4946.1
+,"65-74 years","65-74","Male","M","Other Race","2131-1",3550,165858,2140.4
+,"65-74 years","65-74","Male","M","White","2106-3",242167,7127336,3397.7
+,"75-84 years","75-84","Female","F","Black or African American","2054-5",28144,494772,5688.3
+,"75-84 years","75-84","Female","F","Other Race","2131-1",2670,85114,3137.0
+,"75-84 years","75-84","Female","F","White","2106-3",275219,5687364,4839.1
+,"75-84 years","75-84","Male","M","Black or African American","2054-5",25293,277046,9129.5
+,"75-84 years","75-84","Male","M","Other Race","2131-1",3603,70434,5115.4
+,"75-84 years","75-84","Male","M","White","2106-3",266510,3397245,7844.9
+,"85+ years","85+","Female","F","Black or African American","2054-5",20811,156362,13309.5
+,"85+ years","85+","Female","F","Other Race","2131-1",2222,22700,9788.5
+,"85+ years","85+","Female","F","White","2106-3",288175,2001136,14400.6
+,"85+ years","85+","Male","M","Black or African American","2054-5",11236,66270,16954.9
+,"85+ years","85+","Male","M","Other Race","2131-1",1854,15131,12253.0
+,"85+ years","85+","Male","M","White","2106-3",138807,759826,18268.3
+,"Not Stated","NS","Female","F","Black or African American","2054-5",48,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","Other Race","2131-1",4,Not Applicable,Not Applicable
+,"Not Stated","NS","Female","F","White","2106-3",107,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Black or African American","2054-5",118,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","Other Race","2131-1",8,Not Applicable,Not Applicable
+,"Not Stated","NS","Male","M","White","2106-3",277,Not Applicable,Not Applicable
+"---"
+"Dataset: Compressed Mortality, 1979-1998"
+"Query Parameters:"
+"Year: 1990"
+"Group By: Age Group; Sex; Race"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Nov 26, 2026 1:27:23 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1979-1998. CDC WONDER On-line Database, compiled from Compressed Mortality File CMF"
+"1968-1988, Series 20, No. 2A, 2000 and CMF 1989-1998, Series 20, No. 2E, 2003. Accessed at http://wonder.cdc.gov/cmf-icd9.html"
+"on Nov 26, 2026 1:27:23 PM"
+"---"
+Caveats:
+"1. The population figures used in the calculation of death rates for the age group 'under 1 year' are the live births for the"
+"given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"2. Population figures in this table for 1979 and 1981-89 are intercensal estimates of the July 1 resident population of the"
+"United States. Note that the state and county population estimates for these years are not consistent with national estimates."
+"The population figures in this table for 1980 and 1990 are modified age-race-sex (MARS) April 1 census counts. The population"
+"figures for 1991-98 are bridged-race intercensal estimates of the July 1 resident population."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."

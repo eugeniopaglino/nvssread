@@ -185,13 +185,46 @@ nvss_tabulate <- function(
     
     # --- Geographic filter (50 US states + DC) ---
     n_raw <- nrow(dt)
-    if (geo_filter == "residence") {
-      dt <- dt[state_res_FIPS %chin% us_fips]
-    } else if (geo_filter == "occurrence") {
-      dt <- dt[state_occ_FIPS %chin% us_fips]
-    } else if (geo_filter == "both") {
-      dt <- dt[state_res_FIPS %chin% us_fips & state_occ_FIPS %chin% us_fips]
+    
+    # Detect 2005+ public-use files where state geography is completely blank
+    res_state_blank <- ("state_residence" %in% names(dt)) &&
+      all(is.na(dt$state_residence) | trimws(dt$state_residence) == "")
+    occ_state_blank <- ("state_occurrence" %in% names(dt)) &&
+      all(is.na(dt$state_occurrence) | trimws(dt$state_occurrence) == "")
+    
+    if (res_state_blank && any(c("state", "county") %in% vars)) {
+      stop(
+        sprintf(
+          "Year %d file has blank residence state/county fields (public-use layout). Remove 'state'/'county' from vars.",
+          yr
+        ),
+        call. = FALSE
+      )
     }
+    
+    if (geo_filter %in% c("residence", "both")) {
+      if (res_state_blank) {
+        message(sprintf(
+          "  [%d] Residence state is blank (public-use file); filtering US residents via resident_status in 1..3.",
+          yr
+        ))
+        dt <- dt[trimws(dt$resident_status) %chin% c("1", "2", "3")]
+      } else {
+        dt <- dt[state_res_FIPS %chin% us_fips]
+      }
+    }
+    
+    if (geo_filter %in% c("occurrence", "both")) {
+      if (occ_state_blank) {
+        message(sprintf(
+          "  [%d] Occurrence state is blank (public-use file); all US mortality file records occurred in the US.",
+          yr
+        ))
+      } else {
+        dt <- dt[state_occ_FIPS %chin% us_fips]
+      }
+    }
+    
     n_filtered <- nrow(dt)
     message(sprintf(
       "Records read: %s | Kept after '%s' (50 states + DC) filter: %s",

@@ -1,0 +1,55 @@
+sex,cod,wonder_deaths
+Female,HIV/AIDS,1277
+Male,HIV/AIDS,3838
+Female,Other infectious and parasitic diseases,31569
+Male,Other infectious and parasitic diseases,31632
+Female,Liver cancer,9591
+Male,Liver cancer,18636
+Female,Lung cancer,63161
+Male,Lung cancer,73005
+Female,"Breast, prostate, colorectal, and cervical cancer",71130
+Male,"Breast, prostate, colorectal, and cervical cancer",61709
+Female,All other cancers,148292
+Male,All other cancers,173055
+Female,Mental disorders,3540
+Male,Mental disorders,4722
+Female,"Nervous system, excl. ADRD",38684
+Male,"Nervous system, excl. ADRD",48409
+Female,ADRD,202406
+Male,ADRD,97569
+Female,Hypertensive heart disease,61574
+Male,Hypertensive heart disease,58423
+Female,"Circulatory diseases, excl. Hypertensive heart disease",379849
+Male,"Circulatory diseases, excl. Hypertensive heart disease",428241
+Female,Respiratory diseases excl. Influenza and pneumonia,109294
+Male,Respiratory diseases excl. Influenza and pneumonia,107668
+Female,Influenza and pneumonia,25799
+Male,Influenza and pneumonia,27745
+Female,Diseases of the digestive system,47780
+Male,Diseases of the digestive system,45965
+Female,Diabetes,44656
+Male,Diabetes,57532
+Female,"Endocrine, nutritional, and metabolic diseases excl. Diabetes",32325
+Male,"Endocrine, nutritional, and metabolic diseases excl. Diabetes",29615
+Female,Diseases of the genitourinary system,38716
+Male,Diseases of the genitourinary system,38056
+Female,Perinatal conditions and congenital anomalies,8857
+Male,Perinatal conditions and congenital anomalies,10388
+Female,Homicide,4570
+Male,Homicide,19837
+Female,Suicide,7048
+Male,Suicide,34558
+Female,Drug overdose,28071
+Male,Drug overdose,63728
+Female,Alcohol-induced,14059
+Male,Alcohol-induced,35002
+Female,Transport accidents,12241
+Male,Transport accidents,32921
+Female,Other external causes,33719
+Male,Other external causes,44248
+Female,COVID-19,158319
+Male,COVID-19,192512
+Female,"Symptoms, signs, and ill-defined conditions",17498
+Male,"Symptoms, signs, and ill-defined conditions",16598
+Female,All other causes,19820
+Male,All other causes,14272

@@ -27,6 +27,7 @@ get_nvss_layout <- function(year) {
       state_residence  = list(start = 124L, end = 125L, type = "c"),
       county_residence = list(start = 126L, end = 128L, type = "c"),
       birth_place      = list(start =  78L, end =  79L, type = "c"),
+      resident_status = list(start = 20L, end = 20L, type = "c"),
       sex              = list(start =  59L, end =  59L, type = "c"),
       age_type         = list(start =  64L, end =  64L, type = "i"),
       age_val          = list(start =  65L, end =  66L, type = "i"),
@@ -44,6 +45,7 @@ get_nvss_layout <- function(year) {
     state_residence  = list(start =  29L, end =  30L, type = "c"),
     county_residence = list(start =  35L, end =  37L, type = "c"),
     birth_place      = list(start =  59L, end =  60L, type = "c"),
+    resident_status = list(start = 20L, end = 20L, type = "c"),
     sex              = list(start =  69L, end =  69L, type = "c"),
     age_type         = list(start =  70L, end =  70L, type = "i"),
     age_val          = list(start =  71L, end =  73L, type = "i"),
@@ -66,7 +68,11 @@ get_nvss_layout <- function(year) {
 required_raw_fields <- function(vars, year, geo_filter = "residence", race_groups = "detailed") {
   fields <- c("year")
   
-  if (geo_filter %in% c("residence", "both") || any(c("state", "county") %in% vars)) {
+  # Inside required_raw_fields() — update the geo_filter block:
+  if (geo_filter %in% c("residence", "both")) {
+    fields <- c(fields, "state_residence", "resident_status")
+  }
+  if (any(c("state", "county") %in% vars)) {
     fields <- c(fields, "state_residence")
   }
   if (geo_filter %in% c("occurrence", "both")) {

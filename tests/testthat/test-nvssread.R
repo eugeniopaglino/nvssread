@@ -235,3 +235,38 @@ test_that("harmonize_county_fips collapses CT counties/planning regions and hist
   
   expect_equal(res, c("900", "900", "086", "019", "901", "261", "037"))
 })
+
+test_that("public-use files with blank state filter US residents via resident_status", {
+  # Build a 4-row synthetic 2022 fixed-width file with blank state_residence (29-30),
+  # resident_status (pos 20) = c("1", "2", "3", "4"), and sex (pos 69) = c("M","F","M","F")
+  make_row <- function(res_stat, sex_ch) {
+    chars <- rep(" ", 500L)
+    chars[20L]      <- res_stat
+    chars[69L]      <- sex_ch
+    chars[102:105]  <- strsplit("2022", "")[[1L]]
+    paste0(chars, collapse = "")
+  }
+  
+  tmp <- tempfile("pub_nvss_")
+  dir.create(tmp, recursive = TRUE)
+  on.exit(unlink(tmp, recursive = TRUE), add = TRUE)
+  writeLines(
+    c(make_row("1", "M"), make_row("2", "F"), make_row("3", "M"), make_row("4", "F")),
+    file.path(tmp, "mort2022.txt")
+  )
+  
+  res <- nvss_tabulate(
+    data_dir     = tmp,
+    years        = 2022L,
+    vars         = c("sex"),
+    redistribute = FALSE,
+    geo_filter   = "residence",
+    file_pattern = "mort{year}.txt",
+    return_data  = TRUE
+  )
+  
+  # Foreign resident ("4", F) must be excluded -> 2 Male, 1 Female
+  expect_equal(sum(res$nDx), 3)
+  expect_equal(res[sex == "Male", nDx], 2)
+  expect_equal(res[sex == "Female", nDx], 1)
+})

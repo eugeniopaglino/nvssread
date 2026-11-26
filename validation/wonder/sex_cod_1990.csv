@@ -1,0 +1,55 @@
+sex,cod,wonder_deaths
+Female,HIV/AIDS,2802
+Male,HIV/AIDS,22386
+Female,Other infectious and parasitic diseases,15488
+Male,Other infectious and parasitic diseases,14936
+Female,Liver cancer,3350
+Male,Liver cancer,5161
+Female,Lung cancer,50194
+Male,Lung cancer,91091
+Female,"Breast, prostate, colorectal, and cervical cancer",76370
+Male,"Breast, prostate, colorectal, and cervical cancer",60823
+Female,All other cancers,110865
+Male,All other cancers,114220
+Female,Mental disorders,6362
+Male,Mental disorders,4152
+Female,"Nervous system, excl. ADRD",11808
+Male,"Nervous system, excl. ADRD",13711
+Female,ADRD,14684
+Male,ADRD,8062
+Female,Hypertensive heart disease,19004
+Male,Hypertensive heart disease,13614
+Female,"Circulatory diseases, excl. Hypertensive heart disease",456353
+Male,"Circulatory diseases, excl. Hypertensive heart disease",430416
+Female,Respiratory diseases excl. Influenza and pneumonia,49515
+Male,Respiratory diseases excl. Influenza and pneumonia,63177
+Female,Influenza and pneumonia,42615
+Male,Influenza and pneumonia,36898
+Female,Diseases of the digestive system,33623
+Male,Diseases of the digestive system,29484
+Female,Diabetes,27398
+Male,Diabetes,20266
+Female,"Endocrine, nutritional, and metabolic diseases excl. Diabetes",9058
+Male,"Endocrine, nutritional, and metabolic diseases excl. Diabetes",6854
+Female,Diseases of the genitourinary system,21576
+Male,Diseases of the genitourinary system,17061
+Female,Perinatal conditions and congenital anomalies,13653
+Male,Perinatal conditions and congenital anomalies,17106
+Female,Homicide,5307
+Male,Homicide,19275
+Female,Suicide,4577
+Male,Suicide,23409
+Female,Drug overdose,3280
+Male,Drug overdose,5133
+Female,Alcohol-induced,4915
+Male,Alcohol-induced,14842
+Female,Transport accidents,14871
+Male,Transport accidents,35046
+Female,Other external causes,14095
+Male,Other external causes,24849
+Female,COVID-19,0
+Male,COVID-19,0
+Female,"Symptoms, signs, and ill-defined conditions",10604
+Male,"Symptoms, signs, and ill-defined conditions",13518
+Female,All other causes,12679
+Male,All other causes,7927
