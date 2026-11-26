@@ -16,7 +16,7 @@ Description: Flexibly reads fixed-width National Vital Statistics System (NVSS)
     annual tabulated CSV files.
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 Imports:
     data.table,
     glue,

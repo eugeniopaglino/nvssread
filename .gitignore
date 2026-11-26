@@ -2,7 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-.Rbuildignore
 *.Rproj
 *.Rcheck/
 *.tar.gz
