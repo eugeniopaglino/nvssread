@@ -1,0 +1,10 @@
+# Exported functions
+export(nvss_cod_groups)
+export(nvss_county_crosswalk)
+export(nvss_tabulate)
+
+# Imported functions
+importFrom(data.table, "%between%", "%chin%", ":=", CJ, copy, data.table, fcase, fifelse, fwrite, is.data.table, rbindlist, set, setDT, setcolorder, setnames, setorderv)
+importFrom(glue, glue)
+importFrom(readr, col_character, col_integer, cols, fwf_positions, read_fwf)
+importFrom(utils, globalVariables)

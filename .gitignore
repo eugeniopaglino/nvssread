@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rbuildignore
+*.Rproj
+*.Rcheck/
+*.tar.gz
+README.html
+
+# Prevent committing raw NVSS microdata (keep only synthetic generator script)
+inst/examples/synthetic_data/
+*USAllCnty*.txt
+.httr-oauth
+.DS_Store
+.quarto

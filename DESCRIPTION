@@ -1,0 +1,27 @@
+Package: nvssread
+Title: Read, Clean, and Tabulate NVSS Mortality Microdata Files
+Version: 0.2.0
+Authors@R: person(
+    given = "Eugenio",
+    family = "Paglino",
+    role = c("aut", "cre"),
+    email = "eugeniopaglino@gmail.com",
+    comment = c(ORCID = "0000-0001-8733-6460")
+  )
+Description: Flexibly reads fixed-width National Vital Statistics System (NVSS)
+    mortality files (1989 onwards), harmonizes demographic, geographic
+    (including optional longitudinal county FIPS crosswalks), and cause-of-death
+    (ICD-9 and ICD-10) variables, optionally performs sequential proportional
+    redistribution of missing values with hierarchical fallback, and exports
+    annual tabulated CSV files.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports:
+    data.table,
+    glue,
+    readr,
+    utils
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
