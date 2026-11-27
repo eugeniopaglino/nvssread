@@ -6,6 +6,7 @@
 *.Rcheck/
 *.tar.gz
 README.html
+docs/
 validation/cache/
 validation/results/
 validation/wonder/cache_*.rds
@@ -17,4 +18,4 @@ inst/examples/synthetic_data/
 .httr-oauth
 .DS_Store
 .quarto
-"docs/" 
+
