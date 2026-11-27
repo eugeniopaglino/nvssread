@@ -220,10 +220,11 @@ This generates small synthetic fixed-width files in `inst/examples/synthetic_dat
 
 ### Validation Against Public-Use NVSS Data and CDC WONDER
 
-Because NCHS public-use mortality files share the exact same fixed-width record layouts as the restricted All-County files (with state and county fields blanked out from 2005 onwards), `nvssread` includes an end-to-end validation suite comparing national tabulations (`redistribute = FALSE`) against committed CDC WONDER benchmark tables in `validation/wonder/`:
+Because NCHS public-use mortality files share the exact same fixed-width record layouts as the restricted All-County files (with state and county fields blanked out from 2005 onwards), `nvssread` includes an end-to-end validation suite comparing tabulations (`redistribute = FALSE`) against committed CDC WONDER benchmark tables in `validation/wonder/`:
 
 * **`age × sex × race_eth`:** 1990 (ICD-9, `race_groups = "bw"`), 2000 (bridged race), 2020, and 2024 (`single_multi`, pooling `NH API` + `NH Multiple/Other` to reconcile Race Recode 40 code 23).
 * **`sex × cod` (all 27 cause-of-death groups):** 1990 (ICD-9) and 2020 (ICD-10, including COVID-19).
+* **`state` and `county` totals:** 1990 and 2000, verifying exact counts for every unmasked county (population ≥ 100,000) and totals across all 50 states + DC (within CDC WONDER suppression bounds where applicable).
 
 To run the full validation suite locally from the package root (downloads and caches the official NCHS public-use zip files in `validation/cache/`):
 
@@ -231,7 +232,7 @@ To run the full validation suite locally from the package root (downloads and ca
 source("validation/validate_public_nvss.R")
 ```
 
-The same suite can also be triggered on demand in GitHub Actions under **Actions → Validate Public NVSS vs CDC WONDER** (and runs automatically on version tags `v*`).
+The same tests can also be triggered on demand in GitHub Actions under **Actions → Validate Public NVSS vs CDC WONDER** (and runs automatically on version tags `v*`).
 
 ---
 

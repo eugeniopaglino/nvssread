@@ -99,7 +99,7 @@ ensure_nchs_public_file <- function(year, cache_dir = CACHE_DIR) {
 }
 
 # ==============================================================================
-# 2. WONDER PARSERS (AGE x SEX x RACE_ETH  &  SEX x COD)
+# 2. WONDER PARSERS (AGE x SEX x RACE_ETH, SEX x COD, AND COUNTY)
 # ==============================================================================
 map_wonder_age_to_abridged <- function(age_code, age_label) {
   code <- trimws(age_code)
@@ -179,6 +179,28 @@ read_wonder_age_sex_race <- function(path, year) {
   ), by = .(age, sex, race_eth)]
 }
 
+read_wonder_county <- function(path) {
+  dt <- fread(path, colClasses = "character", fill = TRUE, showProgress = FALSE)
+  setnames(dt, trimws(names(dt)))
+  if ("Notes" %in% names(dt)) dt <- dt[is.na(Notes) | trimws(Notes) == ""]
+  
+  dt[, FIPS_code := trimws(`County Code`)]
+  dt <- dt[grepl("^[0-9]{5}$", FIPS_code)]
+  dt[FIPS_code == "12025", FIPS_code := "12086"] # Dade -> Miami-Dade
+  dt[, state_FIPS := substr(FIPS_code, 1L, 2L)]
+  
+  d_low <- tolower(trimws(dt$Deaths))
+  dt[, is_supp := d_low == "suppressed"]
+  dt[, wonder_deaths := suppressWarnings(as.numeric(gsub(",", "", trimws(Deaths))))]
+  dt[d_low %chin% c("suppressed", "missing", "not applicable"), wonder_deaths := 0]
+  dt <- dt[!is.na(wonder_deaths)]
+  
+  dt[, .(
+    wonder_deaths = sum(wonder_deaths),
+    n_supp        = sum(is_supp)
+  ), by = .(state_FIPS, FIPS_code)]
+}
+
 # ==============================================================================
 # 3. RUN BENCHMARK COMPARISONS
 # ==============================================================================
@@ -189,7 +211,9 @@ for (yr in YEARS) {
   asr_file <- file.path(WONDER_DIR, sprintf("age_sex_race_%d.csv", yr))
   cod_file <- file.path(WONDER_DIR, sprintf("sex_cod_%d.csv", yr))
   
-  if (!file.exists(asr_file) && !file.exists(cod_file)) {
+  cty_file <- file.path(WONDER_DIR, sprintf("county_%d.csv", yr))
+  
+  if (!file.exists(asr_file) && !file.exists(cod_file) && !file.exists(cty_file)) {
     message(sprintf("[%d] No WONDER benchmark CSVs found in %s; skipping.", yr, WONDER_DIR))
     next
   }
@@ -295,6 +319,69 @@ for (yr in YEARS) {
       message(sprintf("  PASS [%d sex x cod]: %d benchmark cells, 0 discrepancies.", yr, nrow(cmp_cod)))
     }
   }
+  
+  # --- Check 3: State (all 50 + DC) & Unmasked County (>=100k pop) Totals ---
+  if (file.exists(cty_file)) {
+    message(sprintf("\n[%d] Checking state & unmasked county totals against %s ...", yr, basename(cty_file)))
+    
+    nvss_geo <- nvss_tabulate(
+      data_dir           = CACHE_DIR,
+      years              = yr,
+      vars               = c("state", "county"),
+      harmonize_counties = FALSE,
+      redistribute       = FALSE,
+      geo_filter         = "residence",
+      file_pattern       = "public_mort_{year}.txt",
+      return_data        = TRUE
+    )
+    nvss_geo[FIPS_code == "12025", FIPS_code := "12086"]
+    
+    wonder_cty <- read_wonder_county(cty_file)
+    
+    # 3A: Exact match on every unmasked (>=100k) county in public-use NVSS
+    nvss_cty <- nvss_geo[!is.na(FIPS_code), .(nDx = sum(nDx)), by = .(FIPS_code)]
+    cmp_cty  <- merge(nvss_cty, wonder_cty[, .(FIPS_code, wonder_deaths, n_supp)],
+                      by = "FIPS_code", all.x = TRUE)
+    cmp_cty[is.na(wonder_deaths), wonder_deaths := 0]
+    cmp_cty[, diff := nDx - wonder_deaths]
+    
+    mm_cty <- cmp_cty[abs(diff) > 1e-6]
+    if (nrow(mm_cty) > 0L) {
+      message(sprintf("  FAIL [%d county]: %d mismatched unmasked county cell(s)!", yr, nrow(mm_cty)))
+      print(mm_cty)
+      fwrite(mm_cty, file.path(OUT_DIR, sprintf("mismatch_county_%d.csv", yr)))
+      all_failures[[paste0("cty_", yr)]] <- mm_cty
+    } else {
+      message(sprintf("  PASS [%d county]: %d unmasked (>=100k) counties, 0 discrepancies (total = %s).",
+                      yr, nrow(cmp_cty), format(sum(cmp_cty$nDx), big.mark = ",")))
+    }
+    
+    # 3B: All 50 states + DC (includes masked <100k counties)
+    nvss_st   <- nvss_geo[, .(nDx = sum(nDx)), by = .(state_FIPS)]
+    wonder_st <- wonder_cty[, .(wonder_deaths = sum(wonder_deaths), n_supp = sum(n_supp)), by = .(state_FIPS)]
+    cmp_st    <- merge(wonder_st, nvss_st, by = "state_FIPS", all = TRUE)
+    cmp_st[is.na(wonder_deaths), wonder_deaths := 0]
+    cmp_st[is.na(n_supp),        n_supp := 0L]
+    cmp_st[is.na(nDx),           nDx := 0]
+    cmp_st[, diff := nDx - wonder_deaths]
+    
+    mm_st <- cmp_st[
+      (n_supp == 0L & abs(diff) > 1e-6) |
+        (n_supp >  0L & (diff < 0 | diff > 9L * n_supp))
+    ]
+    if (nrow(mm_st) > 0L) {
+      message(sprintf("  FAIL [%d state]: %d mismatched state(s)!", yr, nrow(mm_st)))
+      print(mm_st)
+      fwrite(mm_st, file.path(OUT_DIR, sprintf("mismatch_state_%d.csv", yr)))
+      all_failures[[paste0("st_", yr)]] <- mm_st
+    } else {
+      n_exact <- sum(cmp_st$n_supp == 0L)
+      n_bound <- sum(cmp_st$n_supp > 0L)
+      message(sprintf("  PASS [%d state]: %d exact states + %d suppression-bounded states, 0 discrepancies (total = %s).",
+                      yr, n_exact, n_bound, format(sum(cmp_st$nDx), big.mark = ",")))
+    }
+  }
+  
 }
 
 if (length(all_failures) > 0L) {
