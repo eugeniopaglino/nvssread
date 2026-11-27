@@ -14,7 +14,16 @@ The package is built around a single main function `nvss_tabulate()` so research
 
 ## Installation
 
-Install directly from the local package folder:
+Install from GitHub:
+
+```r
+devtools::install_github("eugeniopaglino/nvssread", force=T)
+
+# Or using pak:
+pak::pkg_install("eugeniopaglino/nvssread")
+```
+
+If this fails, or if you do not have access to the internet on your machine, download the zipped package from the Code tab and install directly from the local package folder:
 
 ```r
 install.packages("path/to/nvssread", repos = NULL, type = "source")
@@ -43,7 +52,7 @@ data_dir/
     └── MULT2024USAllCnty.txt
 ```
 
-Some renaming might be needed for this to work or you can override `file_pattern` using `{year}` as a placeholder (e.g., `file_pattern = "MULT{year}USAllCnty.txt"`). This can become tedious though, so doing the renaming once might be easier in the long-run.
+Some renaming might be needed for this to work. Alternatively, you can override `file_pattern` using `{year}` as a placeholder (e.g., `file_pattern = "MULT{year}USAllCnty.txt"`). This can become tedious though, so doing the renaming once might be easier in the long-run.
 
 ---
 
@@ -197,7 +206,9 @@ dt <- fread(
 
 ---
 
-## Testing Locally With Synthetic Examples
+## Testing and Validation
+
+### Synthetic Examples
 
 To see how `nvss_tabulate()` works and inspect sample CSV outputs without needing server access, run the synthetic examples from the package root:
 
@@ -206,6 +217,21 @@ source("inst/examples/run_all_examples.R")
 ```
 
 This generates small synthetic fixed-width files in `inst/examples/synthetic_data/` and writes sample outputs to `inst/examples/outputs/`. See `inst/examples/README.md` for details on each script.
+
+### Validation Against Public-Use NVSS Data and CDC WONDER
+
+Because NCHS public-use mortality files share the exact same fixed-width record layouts as the restricted All-County files (with state and county fields blanked out from 2005 onwards), `nvssread` includes an end-to-end validation suite comparing national tabulations (`redistribute = FALSE`) against committed CDC WONDER benchmark tables in `validation/wonder/`:
+
+* **`age × sex × race_eth`:** 1990 (ICD-9, `race_groups = "bw"`), 2000 (bridged race), 2020, and 2024 (`single_multi`, pooling `NH API` + `NH Multiple/Other` to reconcile Race Recode 40 code 23).
+* **`sex × cod` (all 27 cause-of-death groups):** 1990 (ICD-9) and 2020 (ICD-10, including COVID-19).
+
+To run the full validation suite locally from the package root (downloads and caches the official NCHS public-use zip files in `validation/cache/`):
+
+```r
+source("validation/validate_public_nvss.R")
+```
+
+The same suite can also be triggered on demand in GitHub Actions under **Actions → Validate Public NVSS vs CDC WONDER** (and runs automatically on version tags `v*`).
 
 ---
 
